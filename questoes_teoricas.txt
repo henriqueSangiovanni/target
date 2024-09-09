@@ -1,0 +1,20 @@
+Questões teóricas:
+(3) Soma é 77.
+
+(4)
+a: 9
+b: 128
+c: 49
+d: 100
+e: 13
+f: 200
+
+(5)
+Sejam os interruptores 1, 2 e 3 e as salas A, B e C.
+Primeiro ligo dois interruptores quaisquer, por exemplo 1 e 2.
+Então vou até qualquer uma das salas, por exemplo, A.
+Se a lâmpada estiver desligada, então o interruptor 3 controla a sala A.
+Se estiver acessa, volto e desligo um dos interruptores e depois retorno à mesma sala.
+Se estiver acessa, é porque é o outro interruptor, se estiver apagada, é o que eu desliguei.
+Assim, em apenas duas idas descobri qual interruptor controla uma das salas. 
+Para descobrir ou outros, deve-se ligar apenas um dos outros interruptores e ir até uma das outras salas.
